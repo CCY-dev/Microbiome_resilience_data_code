@@ -1,0 +1,75 @@
+Number	Microbe
+1	Alistipes shahii  
+2	Bacteroides rodentiumuniformis  
+3	Bacteroides stercoris  
+4	Clostridiales species incertae sedis
+5	Faecalibacterium sp  
+6	Firmicutes sp  
+7	Parabacteroides merdae  
+8	Paraprevotella clara  
+9	Alistipes putredinis  
+10	Roseburia hominis  
+11	Anaerostipes hadrus uncultured 
+12	Blautia obeumwexlerae  
+13	Coprococcus comes  
+14	Eubacterium species incertae sedis
+15	Lachnospiraceae species incertae sedis
+16	Oscillibacter sp  
+17	Anaerostipes hadrus  
+18	Blautia obeum uncultured 
+19	Clostridium sp  
+20	Ruminococcus sp  CAG.254
+21	Succinivibrio dextrinosolvens  
+22	Bacteroides sp  
+23	Oscillibacter sp ER4  
+24	Roseburia intestinalis  
+25	Ruminococcus torques  
+26	Bacteroides doreivulgatus  
+27	Odoribacter splanchnicus  
+28	Blautia massiliensis  
+29	Firmicutes bacterium CAG 341
+30	Bifidobacterium ruminantium  
+31	Bifidobacterium pseudocatenulatum  
+32	Lactobacillus gasseriparagasseri  
+33	Bifidobacterium catenulatumkashiwanohense  
+34	Eubacterium ramulus  
+35	Dorea formicigenerans  
+36	Dorea longicatena  
+37	Roseburia inulinivorans  
+38	Bacteroides massiliensis  
+39	Clostridiales sp  
+40	Eubacterium eligens Candidatus 
+41	Dialister sp  CAG.486
+42	Prevotella sp  CAG.520
+43	Romboutsia timonensis  
+44	Roseburia faecis  
+45	Eubacterium hallii  
+46	Eubacterium sp  CAG.180
+47	Blautia sp  
+48	Eubacterium eligens  
+49	Clostridium sp  CAG.138
+50	Roseburia species incertae sedis
+51	Clostridium sp  CAG.127
+52	Clostridium species incertae sedis
+53	Faecalibacterium prausnitzii  
+54	Ruminococcus bromii  
+55	Ruminococcus sp  CAG.177
+56	Bacteroidales species incertae sedis
+57	Roseburia sp  
+58	Eggerthella species incertae sedis
+59	Eubacterium rectale  
+60	Ruminococcus species incertae sedis
+61	Holdemanella biformis  
+62	Mitsuokella jalaludinii  
+63	Prevotella copri  
+64	Prevotella species incertae sedis
+65	Collinsella aerofaciens  
+66	Butyricicoccus species incertae sedis
+67	Faecalibacterium species incertae sedis
+68	Dialister invisus  
+69	Firmicutes species incertae sedis
+70	Parabacteroides distasonis  
+71	Firmicutes sp Eubacterium sp CAG 76  
+72	Streptococcus thermophilus  
+73	Streptococcus parasanguinis  
+74	Ruminococcus sp Eubacterium sp CAG 76 incertae sedis
